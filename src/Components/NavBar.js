@@ -35,7 +35,7 @@ const ImgLogo = styled.img`
 const Login = styled.button`
     background-color: #299B01;
     border: none;
-    
+    margin-right: 15px;
 `;
 
 const LoginImg = styled.img`
