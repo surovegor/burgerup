@@ -13,7 +13,6 @@ export const GlobalStyle = createGlobalStyle`
 
   body {
     margin: 0;
-    background-color: #f0f0f0;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     color: #000;

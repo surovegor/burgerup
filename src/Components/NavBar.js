@@ -14,7 +14,7 @@ const NavBarStyled = styled.header`
     justify-content: space-between;
     align-items: center;
     padding: 15px;
-    background-color: #299B01;
+    background-color: #000;
     color: #fff;
 `;
 
@@ -33,7 +33,7 @@ const ImgLogo = styled.img`
 `;
 
 const Login = styled.button`
-    background-color: #299B01;
+    background-color: #000;
     border: none;
     margin-right: 15px;
 `;
